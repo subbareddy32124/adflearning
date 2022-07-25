@@ -1,0 +1,9 @@
+{
+	"name": "adfgithublearn",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1461ad93-f2b8-44b1-980e-9e1f420d4e73",
+		"tenantId": "c3c2d635-98ac-4d00-84f4-37ff9e255a5c"
+	}
+}
